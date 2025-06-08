@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+
+
+    <test  name="Test">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="testCases.TC01_WebpageTitle" />
+            <class name="testCases.TC02_LoginTest" />
+            <class name="testCases.TC03_Addtocart" />
+        </classes>
+    </test> <!--Test -->
+</suite> <!--Suite -->
+
+
+

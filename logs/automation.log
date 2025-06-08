@@ -1,0 +1,16 @@
+12:14:35.839 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:14:41.465 [main] INFO  testCases.TC02_LoginTest - failed
+12:14:41.466 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:14:47.002 [main] INFO  testCases.TC02_LoginTest - login
+12:14:48.207 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:14:58.535 [main] INFO  testCases.TC02_LoginTest - login
+12:14:59.819 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:15:05.303 [main] INFO  testCases.TC02_LoginTest - failed
+12:15:05.304 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:15:10.664 [main] INFO  testCases.TC02_LoginTest - failed
+12:15:10.666 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:15:16.027 [main] INFO  testCases.TC02_LoginTest - failed
+12:15:16.028 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:15:21.527 [main] INFO  testCases.TC02_LoginTest - failed
+12:15:22.707 [main] INFO  testCases.TC03_Addtocart - cart test
+12:15:33.116 [main] INFO  testCases.TC03_Addtocart - PASS
