@@ -61,7 +61,7 @@ public class TC02_LoginTest extends Baseclass {
     @DataProvider(name = "loginData")
     public Object[][] getLoginData() {
         try {
-            String excelPath = "C:\\Varun_Folder\\OpencartV1\\Testdata\\logindetails.xlsx";
+            String excelPath = System.getProperty("user.dir") + "\\Testdata\\logindetails.xlsx";
             ExcelUtility excelReader = new ExcelUtility(excelPath, "Sheet1");
             Object[][] data = excelReader.getTestDataArray();
             excelReader.closeWorkbook();
