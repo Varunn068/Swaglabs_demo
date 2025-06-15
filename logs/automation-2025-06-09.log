@@ -1,0 +1,66 @@
+12:14:35.839 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:14:41.465 [main] INFO  testCases.TC02_LoginTest - failed
+12:14:41.466 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:14:47.002 [main] INFO  testCases.TC02_LoginTest - login
+12:14:48.207 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:14:58.535 [main] INFO  testCases.TC02_LoginTest - login
+12:14:59.819 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:15:05.303 [main] INFO  testCases.TC02_LoginTest - failed
+12:15:05.304 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:15:10.664 [main] INFO  testCases.TC02_LoginTest - failed
+12:15:10.666 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:15:16.027 [main] INFO  testCases.TC02_LoginTest - failed
+12:15:16.028 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:15:21.527 [main] INFO  testCases.TC02_LoginTest - failed
+12:15:22.707 [main] INFO  testCases.TC03_Addtocart - cart test
+12:15:33.116 [main] INFO  testCases.TC03_Addtocart - PASS
+12:40:42.329 [main] INFO  testCases.TC01_WebpageTitle - Title Test
+12:40:42.344 [main] INFO  testCases.TC01_WebpageTitle - PASS
+12:40:43.933 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:40:43.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:40:44.414 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+12:40:51.077 [main] INFO  testCases.TC02_LoginTest - login
+12:40:53.011 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+16:37:40.504 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:37:40.511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:30.391 [main] INFO  testCases.TC01_WebpageTitle - Title Test
+16:39:30.410 [main] INFO  testCases.TC01_WebpageTitle - PASS
+16:39:31.825 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:39:31.829 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:39:32.290 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+16:39:38.351 [main] INFO  testCases.TC02_LoginTest - login
+16:39:40.110 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+16:39:46.194 [main] INFO  testCases.TC02_LoginTest - failed
+16:39:46.198 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+16:39:52.315 [main] INFO  testCases.TC02_LoginTest - login
+16:39:53.764 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+16:40:04.468 [main] INFO  testCases.TC02_LoginTest - login
+16:40:05.825 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+16:40:11.986 [main] INFO  testCases.TC02_LoginTest - failed
+16:40:11.990 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+16:40:18.234 [main] INFO  testCases.TC02_LoginTest - failed
+16:40:18.237 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+16:40:24.244 [main] INFO  testCases.TC02_LoginTest - failed
+16:40:24.247 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+16:40:30.409 [main] INFO  testCases.TC02_LoginTest - failed
+16:40:32.551 [main] INFO  testCases.TC03_Addtocart - cart test
+16:40:46.168 [main] INFO  testCases.TC03_Addtocart - PASS
+17:00:29.566 [main] INFO  testCases.TC01_WebpageTitle - Title Test
+17:00:29.668 [main] INFO  testCases.TC01_WebpageTitle - PASS
+17:00:35.411 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:00:35.418 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:00:36.176 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+17:00:44.104 [main] INFO  testCases.TC02_LoginTest - login
+17:00:55.441 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+17:01:07.143 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+17:01:18.061 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+17:01:28.895 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+17:01:39.900 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+17:01:50.964 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+17:02:01.628 [main] INFO  testCases.TC02_LoginTest - TC02-logintest
+17:02:18.792 [main] INFO  testCases.TC03_Addtocart - cart test
+17:02:38.452 [main] INFO  testCases.TC03_Addtocart - FAIL
+20:44:52.493 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:44:52.505 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:19:39.010 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:19:39.015 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels

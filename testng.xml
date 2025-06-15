@@ -9,14 +9,14 @@
 
 
     <test  name="Test">
-        <parameter name="browser" value="chrome" />
+        <parameter name="os" value="windows" />
+        <parameter name="browser" value="edge" />
         <classes>
             <class name="testCases.TC01_WebpageTitle" />
-            <class name="testCases.TC02_LoginTest" />
+           <class name="testCases.TC02_LoginTest" />
             <class name="testCases.TC03_Addtocart" />
         </classes>
     </test> <!--Test -->
 </suite> <!--Suite -->
-
 
 
